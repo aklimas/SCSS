@@ -1,2 +1,2 @@
 # SCSS
-Default SCSS with Bootstrap and modification
+# Paczka SCSSów - Bootstrap 5 z modyfikacjami
